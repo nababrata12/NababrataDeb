@@ -15,5 +15,5 @@
   </a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/NabanrataNFTart)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/nababratadeb/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NabanrataNFTart?label=Follow)](https://twitter.com/NabanrataNFTart)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naba-p-singh/)](https://www.linkedin.com/in/nababratadeb/)
